@@ -16,6 +16,7 @@ function Home() {
                 <Button text="Take a test" onClick={() => navigate("/take-a-test")}/>
                 <Button text="How it works?" filled={false}/>
             </div>
+            
         </HomeChild>
     )
 }
